@@ -1,0 +1,79 @@
+#body{
+  background-color: #0F4C75;
+}
+
+
+
+#intro{
+  position:relative;
+  margin-top: 10%;
+  margin-bottom: 13%;
+  background-color:  #1B262C;
+  height: 450px;
+}
+h1{
+  color: black;
+}
+
+p{
+  color: black;
+}
+#intro a{
+  color:rgb(0, 0, 0);
+}
+
+#container h1{
+  color:aliceblue;
+}
+
+.card {
+  transition: 0.8s;
+  border-left: rgb(255, 255, 255) solid 20px;
+}
+
+.card:hover {
+  transform: scale(1.09);
+}
+
+#skil {
+  background-color: #1B262C;
+}
+
+#about{
+  margin-bottom: 20%;
+  margin-top: 3%;
+  margin-left: 18%;
+}
+
+#profil{
+  margin-bottom: 20%;
+  margin-top: 3%;
+  margin-left: 18%;
+}
+
+#profil h1{
+  color: aliceblue;
+}
+
+#about h1{
+  color: aliceblue;
+}
+#in img{
+   width: 310px;
+   height: 300px;
+   border-radius: 50%;
+   margin-top: 3.5%;
+
+}
+#in h1{
+  color:rgb(255, 255, 255);
+}
+
+#in h4{
+  color: rgb(255, 255, 255);
+}
+
+#edu {
+  margin-top: 20%;
+  background-color: #1B262C;
+}
